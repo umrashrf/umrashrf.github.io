@@ -6,10 +6,10 @@
 name: Umair Ashraf  
 
 # Short bio or description (displayed in the header)
-description: Software Engineer
+description: Software Engineer Professional
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://gravatar.com/avatar/5b018d50447c64c583bd35ccbcf655bf.jpeg
+avatar:
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: fabumair
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
