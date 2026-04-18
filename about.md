@@ -12,7 +12,7 @@ Python, JavaScript, C/C++, Open-Source Software
 
 ### Projects
 
-* email.riamu.io
+* [email.riamu.io](https://email.riamu.io)
 
 ### Contact me
 
