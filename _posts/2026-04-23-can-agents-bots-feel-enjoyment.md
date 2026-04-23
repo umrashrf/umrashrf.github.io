@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Can agents/bots feel enjoyment?
 ---
 
