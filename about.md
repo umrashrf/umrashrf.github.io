@@ -8,7 +8,7 @@ Software Engineer Professional based in Canada. Graduated from Concordia Univers
 
 ### More Information
 
-Python, JavaScript, C/C++, Open-Source Software
+Software Engineer with extensive experience in Application Development (JavaScript/React), DevOps, Data Science, AI/ML
 
 ### Projects
 
