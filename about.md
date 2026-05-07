@@ -8,7 +8,11 @@ Software Engineer Professional based in Canada. Graduated from Concordia Univers
 
 ### More Information
 
-Software Engineer with extensive experience in Application Development (JavaScript/React), DevOps, Data Science, AI/ML
+Doing many things lately, mainly a software engineer and an expert programmer but transitioned to business a few years ago. Now a builder (creative, fantasy, imaginative). I am quite savvy with computers, internet/networking, deep tech, etc.
+
+Have you used Google Firebase? If yes, checkout Postbase for an open-source alternative github.com/umrashrf/postbase
+
+Have you struggled with Gmail storage running out all the time and looking for a free alternative running in your computer? Try email.riamu.io which is Free! Also marketers can use it to send unlimited emails for almost free.
 
 ### Projects
 
