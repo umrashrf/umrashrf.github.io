@@ -4,9 +4,9 @@ comments: true
 title: Flair Airlines - Make money at the boarding gate when people are most vulnerable
 ---
 
-[View Post](https://umrashrf.github.io/flair-airlines-make-money-at-the-boarding-gate-when-people-are-most-vulnerable/)
+*by a human - no AI was used*
 
-*Written by a human - No AI was used*
+[View Post](https://umrashrf.github.io/flair-airlines-make-money-at-the-boarding-gate-when-people-are-most-vulnerable/)
 
 Times are definitely changing as being courteous is no longer an option specially with Flair Airlines (Edmonton International Airport). They stopped me from boarding my flight to Toronto today and asked me to pay $120 for oversized personal item.
 
