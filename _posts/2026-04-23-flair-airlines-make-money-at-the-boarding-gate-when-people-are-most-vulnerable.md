@@ -18,7 +18,7 @@ Not only were they not courteous, they were overly strict and uppity with custom
 
 It seems like none of my existing carry-on or backpacks will fit their dimensions. And I may have to purchase a very specific carry-on for their flights. Reminds me of a video from Europe where a passenger was pulling off the wheels of their carry-on to fly.
 
-![Passenger pulling off wheels from carry-on](/images/passenger-pulling-off-wheels-from-carry-on-case-1024x560.webp)
+[![Passenger pulling off wheels from carry-on](/images/passenger-pulling-off-wheels-from-carry-on-case-1024x560.webp)](https://www.youtube.com/shorts/zR98JAOCQxw)
 
 Anyway, they are indeed still the cheapest airline in Canada and since there are not many airlines here, the lack of competition makes them do whatever and however they want.
 
