@@ -25,3 +25,7 @@ Anyway, they are indeed still the cheapest airline in Canada and since there are
 Will they at least issue me a refund for a missed flight? Time will tell as I have just submitted a claim.
 
 Did you have to pay extra at Flair Airlines boarding gate? Tell me about your experience in the comments down below. So I can assess if it's worth taking them to consumer protection bureau.
+
+If you are also fed up with flying or with the airports, consider driving or renting a car and make a road trip. 
+
+Share your road trip on [Mamiride](https://www.mamiride.com) and cover the costs of fuel, insurance and wear and tear of your car.
