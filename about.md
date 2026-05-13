@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Software Engineer Professional based in Canada. Graduated from Concordia University, Montreal with Masters in Software Engineering.
+Software Engineer/Builder based in Canada. Graduated from Concordia University, Montreal with Masters in Software Engineering.
 
 ### More Information
 
