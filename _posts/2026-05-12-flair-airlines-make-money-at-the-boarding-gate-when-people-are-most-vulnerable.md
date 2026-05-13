@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Flair Airlines - Make money at the boarding gate when people are most vulnerable
+title: Flair Airlines - Make money at the boarding gate where people are most vulnerable
 ---
 
 *by a human - no AI was used*
