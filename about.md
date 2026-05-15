@@ -14,6 +14,11 @@ Have you used Google Firebase? If yes, checkout Postbase for an open-source alte
 
 Have you struggled with Gmail storage running out all the time and looking for a free alternative running in your computer? Try email.riamu.io which is Free! Also marketers can use it to send unlimited emails for almost free.
 
+### Certifications
+
+* Introduction to agent skills ([Active](https://verify.skilljar.com/c/a4z6fxgkaw6j))
+* Certified Scrum Master ([Inactive](https://bcert.me/sxhjxdqwe))
+
 ### Projects
 
 * [email.riamu.io](https://email.riamu.io)
