@@ -12,6 +12,23 @@ I just integrated live location updates in a two-sided marketplace app using Pos
 
 That is, Postgres < pg_notify < Web Sockets < Express.js/Node.js < Postbase < Nginx.
 
+## All you need is onSnapshot() function
+
+```javascript
+db.collection('location_updates')
+    .where('datetime', '>=', Timestamp.now())
+    .onSnapshot(location_docs => {
+        update_ui(location_docs);
+    });
+```
+
+## And .add() function
+
+```javascript
+await db.collection('location_updates')
+        .add({ latitude, longitude, heading, zoom });
+```
+
 Not to mention the Database Migrations using node-pg-migrate, the serializing and deserializing of JavaScript to SQL using Postbase integrating Web Sockets with them and making them run over HTTP using Nginx rewrites! And to put it in a user interface using React/Preact app.
 
 Before Postbase, I was using Firebase which is a great product by Google but it is vendor locked. With the invention of Postbase, I am using it for all my open source and commercial projects and it feels really good to own your infrastructure and data. Postbase is also open source! So anyone can grab the copy and run their own infra on it.
