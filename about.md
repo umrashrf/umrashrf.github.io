@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+#OpenToWork
+
 Software Engineer/Builder based in Canada. Graduated from Concordia University, Montreal with Masters in Software Engineering.
 
 ### More Information
