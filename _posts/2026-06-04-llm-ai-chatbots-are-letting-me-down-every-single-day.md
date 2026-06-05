@@ -20,7 +20,7 @@ You should be surprised to know that now open-weights local models are good enou
 >>> you are a javascript es6 programmer, only output valid js es6 code and nothing else. do not explain or write comments or docs. Write js code to get today's date with utc offset which will print in this format: "Thu Jun 4, 2026 10:53 AM"
 ```
 
-    *Is there a way to prefix "you are a javascript es6 programmer, only output valid js es6 code and nothing else. do not explain or write comments or docs." forever? Please let me know in the comments below.*
+> *Is there a way to prefix "you are a javascript es6 programmer, only output valid js es6 code and nothing else. do not explain or write comments or docs." forever? Please let me know in the comments below.*
 
 and the answer will be:
 
@@ -41,6 +41,6 @@ console.log(formattedDate);
 
 Exactly what you wanted. You just skipped search engines and paid LLMs. This is a big blow to search engines and LLMs and a big win for our privacy.
 
-    *There is an open source *open-webui* project you can use to give you a feeling of popular chatbots out there but I found it to be a memory hog and slow.*
+> *There is an open source *open-webui* project you can use to give you a feeling of popular chatbots out there but I found it to be a memory hog and slow.*
 
 Large companies can add a local LLM filter layer for their employees to get answers from local LLM and fallback to external paid providers like Claude or OpenAI considerably reducing their AI costs.
