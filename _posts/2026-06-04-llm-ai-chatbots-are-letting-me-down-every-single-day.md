@@ -1,7 +1,8 @@
 ---
 layout: post
 comments: true
-title: LLM AI Chatbots are letting me down every single day 
+title: LLM AI Chatbots are letting me down every single day
+date: 2026-06-04 00:00:00.000000000 -04:00
 ---
 
 *by a human - no AI was used*

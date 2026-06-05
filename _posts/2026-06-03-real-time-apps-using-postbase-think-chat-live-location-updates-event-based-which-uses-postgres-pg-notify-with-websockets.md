@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: Real-Time Apps using Postbase (think Chat, Live Location Updates, Event Based) which uses Postgres pg_notify with WebSockets
+date: 2026-06-03 00:00:00.000000000 -04:00
 ---
 
 *by a human - no AI was used*

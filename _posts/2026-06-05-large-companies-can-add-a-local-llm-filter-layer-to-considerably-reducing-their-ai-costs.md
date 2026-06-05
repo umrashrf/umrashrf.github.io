@@ -1,7 +1,8 @@
 ---
 layout: post
 comments: true
-title: Large companies can add a local LLM filter layer to considerably reducing their AI costs 
+title: Large companies can add a local LLM filter layer to considerably reducing their AI costs
+date: 2026-06-05 00:00:00.000000000 -04:00
 ---
 
 *by a human - no AI was used*

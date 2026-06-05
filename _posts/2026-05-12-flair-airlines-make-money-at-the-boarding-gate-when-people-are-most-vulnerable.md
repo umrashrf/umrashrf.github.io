@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: Flair Airlines - Make money at the boarding gate where people are most vulnerable
+date: 2026-05-12 00:00:00.000000000 -04:00
 ---
 
 *by a human - no AI was used*

@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: Can agents/bots feel enjoyment?
+date: 2026-04-23 00:00:00.000000000 -04:00
 ---
 
 [View Post](https://umrashrf.github.io/can-agents-bots-feel-enjoyment/)
