@@ -7,7 +7,7 @@ date: 2026-06-05 12:41:00.000000000 -04:00
 
 *by a human - no AI was used*
 
-[View Post](https://umrashrf.github.io/how-to-sell/)
+[View Post](https://umrashrf.github.io/how-to-sell-sales-is-not-about-selling/)
 
 I have been pondering over this question since last several years as I struggle to sell software. I have watched countless videos, listened and followed many gurus, observed and participated in many online forums and discussions. I have learned that I am not alone and this is a struggle as old as mankind.
 
