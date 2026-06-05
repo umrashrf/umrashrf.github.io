@@ -21,4 +21,4 @@ And care should and will show in the end product. That means you put your users 
 
 Feel free to agree or disagree with me but if you do disagree, please let me know in the comments below.
 
-If you'd like to know more about my sales process, please reach out to me by email. To reach out to me, you will need to setup (email.riamu.io)[https://email.riamu.io]
+If you'd like to know more about my sales process, please reach out to me by email. To reach out to me, you will need to setup [email.riamu.io](https://email.riamu.io)
