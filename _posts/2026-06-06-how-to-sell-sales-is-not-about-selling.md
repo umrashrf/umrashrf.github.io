@@ -15,6 +15,8 @@ Sales can be stressing and stress is not good for sales. If you are stressed sel
 
 Or simply put, sales is a 9-5 activity best done with 1-2 colleagues who are friendly. People like friendly people and buy from them as it feels good.
 
-Sales is also not about selling. It's about meeting someone, being curious & friendly, being compassionate and genuinely helpful and potentially end up in a business contract. And care should and will show in your development and the product. That means you put your users and their needs first in designing and developing your products. To make their life easy not hard.
+Sales is also not about selling. It's about meeting someone, being curious & friendly, being compassionate and genuinely helpful and potentially end up in a business contract. This doesn't mean being soft or avoiding sales to not come off as aggressive.
+
+And care should and will show in the end product. That means you put your users and their needs first in designing and developing your products. To make their life easy not hard.
 
 Feel free to agree or disagree with me but if you do disagree, please let me know in the comments below.
