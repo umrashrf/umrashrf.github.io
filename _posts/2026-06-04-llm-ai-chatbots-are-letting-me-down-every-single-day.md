@@ -14,7 +14,7 @@ Fast-forward today I use LLM every day to speed up my work and focus on what's m
 
 But LLM can't handle complex tasks like I can. All their answers are half-baked, and I have to do the heavy lifting of getting them to the finish line.
 
-You should be surprised to know that now open-weights local models are good enough for simple coding questions and answers to avoid hitting search engines, StackOverflow or LLMs. Download and install *ollama* in your computer and run *gemma3* or *gemma4* basic models, and you can ask things like:
+And then there are Small Language Models. You should be surprised to know that now open-weights local models are good enough for simple coding questions and answers to avoid hitting search engines, StackOverflow or LLMs. Download and install *ollama* in your computer and run *gemma3* or *gemma4* basic models, and you can ask things like:
 
 ```
 >>> you are a javascript es6 programmer, 
