@@ -16,7 +16,7 @@ But LLM can't handle complex tasks like I can. All their answers are half-baked,
 
 You should be surprised to know that now open-weights local models are good enough for simple coding questions and answers to avoid hitting search engines, StackOverflow or LLMs. Download and install *ollama* in your computer and run *gemma3* or *gemma4* basic models, and you can ask things like:
 
-```bash
+```
 >>> you are a javascript es6 programmer, only output valid js es6 code and nothing else. do not explain or write comments or docs. Write js code to get today's date with utc offset which will print in this format: "Thu Jun 4, 2026 10:53 AM"
 ```
 
