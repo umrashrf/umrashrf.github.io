@@ -7,7 +7,7 @@ date: 2026-06-12 10:06:00.000000000 -04:00
 
 *by a human - no AI was used*
 
-[View Post](https://umrashrf.github.io/how-to-sell-sales-is-not-about-selling/)
+[View Post](https://umrashrf.github.io/canada-is-not-the-best-place-to-do-a-startup-especially-a-bootstrapped-startup-or-solo-founders/)
 
 It costs $350 CAD to register a Quebec company and $200 for a Canadian corporation. And it costs more to get the necessary licenses in hundreds of dollars. And this is the lowest you have paid in your startup journey. Then there is annual tax filing which the cheapest I could find is $300-$500 for NIL returns and go up to $1500 for regular returns.
 
