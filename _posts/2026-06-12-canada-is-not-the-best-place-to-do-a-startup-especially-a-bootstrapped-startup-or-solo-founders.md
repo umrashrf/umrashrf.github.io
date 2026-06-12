@@ -5,13 +5,13 @@ title: Canada is not the best place to do a startup especially a bootstrapped st
 date: 2026-06-12 10:06:00.000000000 -04:00
 ---
 
-*by a human - no AI was used*
+*Written by a human - some AI was used for research*
 
 [View Post](https://umrashrf.github.io/canada-is-not-the-best-place-to-do-a-startup-especially-a-bootstrapped-startup-or-solo-founders/)
 
 It costs $397 CAD to register a Quebec company [1] and $200 for a Canadian corporation [2]. And it costs more to get the necessary licenses in hundreds of dollars. And this is the lowest you have paid in your startup journey. Then there is annual tax filing which the cheapest I could find is $300-$500 for NIL returns and go up to $1500 for regular returns.
 
-Did you know Canada has stopped taking paper tax filings for most corporations? Unlike the IRS, this puts more burden on the tax filer because now they have to use the approved software even if they are doing their own taxes! The cheapest software I found for Quebec filing is $350 per filing, and you have to do it by yourself [3]. So better pay an account $300-$500 then do it yourself.
+Did you know Canada has stopped taking paper tax filings for most corporations? Unlike the IRS [4], this puts more burden on the tax filer because now they have to use the approved software even if they are doing their own taxes! The cheapest software I found for Quebec filing is $350 per filing, and you have to do it by yourself [3]. So better pay an account $300-$500 then do it yourself.
 
 Please note that these amounts add up, when you are starting multiple startups and shutting them down over the years.
 
@@ -28,3 +28,4 @@ Please note none of this is an advice but just personal experience. Please consu
 [1] https://www.quebec.ca/en/businesses-and-self-employed-workers/registraire-entreprises-fees/all-fees
 [2] https://ised-isde.canada.ca/site/corporations-canada/en/services-fees-and-processing-times
 [3] https://www.revenuquebec.ca/en/partners/authorized-products/authorized-software/corporation-income-tax-returns/
+[4] Used search engine AI response to find if IRS requires software based filing or not
