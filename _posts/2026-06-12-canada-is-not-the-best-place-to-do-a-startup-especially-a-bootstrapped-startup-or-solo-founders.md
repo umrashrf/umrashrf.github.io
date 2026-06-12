@@ -5,7 +5,7 @@ title: Canada is not the best place to do a startup especially a bootstrapped st
 date: 2026-06-12 10:06:00.000000000 -04:00
 ---
 
-*Written by a human - some AI was used for research*
+*by a human - some AI was used for research*
 
 [View Post](https://umrashrf.github.io/canada-is-not-the-best-place-to-do-a-startup-especially-a-bootstrapped-startup-or-solo-founders/)
 
