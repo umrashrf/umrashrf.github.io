@@ -25,7 +25,7 @@ I don't mean to discredit Canada but just to bring up this topic, so Canada can 
 
 Please note none of this is an advice but just personal experience. Please consult your own accountant or advisor before executing anything.
 
-[1] https://www.quebec.ca/en/businesses-and-self-employed-workers/registraire-entreprises-fees/all-fees
-[2] https://ised-isde.canada.ca/site/corporations-canada/en/services-fees-and-processing-times
-[3] https://www.revenuquebec.ca/en/partners/authorized-products/authorized-software/corporation-income-tax-returns/
-[4] Used search engine AI response to find if IRS requires software based filing or not
+- [1] https://www.quebec.ca/en/businesses-and-self-employed-workers/registraire-entreprises-fees/all-fees
+- [2] https://ised-isde.canada.ca/site/corporations-canada/en/services-fees-and-processing-times
+- [3] https://www.revenuquebec.ca/en/partners/authorized-products/authorized-software/corporation-income-tax-returns/
+- [4] Used search engine AI response to find if IRS requires software based filing or not
