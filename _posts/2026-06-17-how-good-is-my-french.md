@@ -11,7 +11,8 @@ date: 2026-06-17 12:05:00.000000000 -04:00
 
 Le titre premier j'ai pense, etait:
 
-    Ecriture francais, c'est la bon method de amerliorer votre francais. Avec de l'aide de traduction et avec les irregularities/erroreurs.
+    Ecriture francais, c'est la bon method de amerliorer votre francais. 
+    ...Avec de l'aide de traduction et avec les irregularities/erroreurs.
 
 C'est claire que ce n'est pas le titre propre.
 
