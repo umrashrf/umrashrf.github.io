@@ -87,6 +87,12 @@ It covers:
 ✘ No need to spend time on theming  
 ✘ More time to code other things ... wait ✓!  
 
+## Generating table of contents
+
+```
+gh-md-toc README.md
+```
+
 ## Questions?
 
 [Open an Issue](https://github.com/barryclark/jekyll-now/issues/new) and let's chat!
